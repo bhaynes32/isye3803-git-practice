@@ -7,4 +7,6 @@ y = x**2
 plt.plot(x, y)
 plt.savefig("plot_x2.png")
 plt.show()
+plt.xlabel("x")
+plt.ylabel("f(x) = x^2")
 
